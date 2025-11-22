@@ -47,7 +47,7 @@
 - **Engine**: Unity 202x.x (LTS)
 - **Language**: C#
 - **IDE**: Visual Studio
-- **Tools**: Git, Photoshop(Pixel Art)
+- **Tools**: Git
 
 ---
 *This repository contains code and assets for study purposes.*
